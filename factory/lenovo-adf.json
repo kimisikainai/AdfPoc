@@ -1,0 +1,9 @@
+{
+	"name": "lenovo-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df630f4e-9179-43f8-9f99-03923a82bdf8",
+		"tenantId": "8ee5ddb9-c2b3-4e10-9202-b697dd98c55f"
+	}
+}
